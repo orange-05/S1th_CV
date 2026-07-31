@@ -3,11 +3,11 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Fork](https://img.shields.io/badge/Fork-CV_Template-blue?style=for-the-badge)
 
-> **CV/Resume template fork** — A fork of a markdown/HTML CV template for personal customization.
+> **CV/Resume template fork** -- A fork of a markdown/HTML CV template for personal customization.
 
 ---
 
-## ⚠️ **This is a Fork**
+## This is a Fork
 
 **Original Repository:** Not identified (likely a popular CV template like `nicksherefkin/ns.markdown.cv` or similar)
 
@@ -18,7 +18,7 @@ This fork exists for:
 
 ---
 
-## 🌟 Overview
+## Overview
 
 A curriculum vitae template designed to be written in Markdown (or HTML) and rendered as a professional PDF/web page. The original template likely provides:
 - Clean, printable layout
@@ -28,20 +28,20 @@ A curriculum vitae template designed to be written in Markdown (or HTML) and ren
 
 ---
 
-## ✨ Features (Inferred)
+## Features (Inferred)
 
 | Feature | Description |
 |---------|-------------|
 | **Markdown Source** | Write CV in readable markdown |
 | **HTML Output** | Rendered web version |
-| **PDF Generation** | Print-optimized CSS → PDF |
+| **PDF Generation** | Print-optimized CSS -> PDF |
 | **Responsive Design** | Works on screen and paper |
 | **Sections** | Education, Experience, Skills, Projects, Publications |
 | **Theming** | Color schemes, fonts customizable |
 
 ---
 
-## 🛠 Tech Stack (Inferred)
+## Tech Stack (Inferred)
 
 | Layer | Technology |
 |-------|------------|
@@ -52,31 +52,31 @@ A curriculum vitae template designed to be written in Markdown (or HTML) and ren
 
 ---
 
-## 📁 Project Structure (Typical)
+## Project Structure (Typical)
 
 ```text
 forking-cv/
-├── cv.md                 # Source content (Markdown)
-├── index.html            # Rendered HTML (or generated)
-├── css/
-│   ├── screen.css        # Screen styles
-│   ├── print.css         # Print/PDF styles
-│   └── themes/
-│       ├── default.css
-│       └── dark.css
-├── scripts/
-│   ├── build-pdf.sh      # Pandoc/WeasyPrint command
-│   └── watch.js          # Live reload during editing
-├── assets/
-│   ├── fonts/
-│   └── images/
-├── package.json          # If Node-based build
-└── README.md             # This file
++-- cv.md                 # Source content (Markdown)
++-- index.html            # Rendered HTML (or generated)
++-- css/
+|   +-- screen.css        # Screen styles
+|   +-- print.css         # Print/PDF styles
+|   +-- themes/
+|       +-- default.css
+|       +-- dark.css
++-- scripts/
+|   +-- build-pdf.sh      # Pandoc/WeasyPrint command
+|   +-- watch.js          # Live reload during editing
++-- assets/
+|   +-- fonts/
+|   +-- images/
++-- package.json          # If Node-based build
++-- README.md             # This file
 ```
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone this fork
@@ -102,7 +102,7 @@ npx serve .
 
 ---
 
-## ✏️ Customization
+## Customization
 
 ### Content
 Edit `cv.md` (or `index.html`) with your:
@@ -136,7 +136,7 @@ Adjust `css/print.css` for:
 
 ---
 
-## 🔧 Build Tools Comparison
+## Build Tools Comparison
 
 | Tool | Command | Pros |
 |------|---------|------|
@@ -147,15 +147,15 @@ Adjust `css/print.css` for:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-**This is a personal fork — not open for contributions.**
+**This is a personal fork -- not open for contributions.**
 
 To improve the template, contribute to the original repository.
 
 ---
 
-## 🔍 Finding the Original
+## Finding the Original
 
 ```bash
 # Check git history
@@ -173,13 +173,13 @@ Popular CV templates to check:
 
 ---
 
-## 📄 License
+## License
 
-**Unknown** — Check original repository. Common: MIT, CC0, or CC-BY.
+**Unknown** -- Check original repository. Common: MIT, CC0, or CC-BY.
 
 ---
 
-## 👤 Fork Owner
+## Fork Owner
 
 **Karthikeyan K** (BCA Analytics)
 - GitHub: [@orange-05](https://github.com/orange-05)
@@ -187,4 +187,4 @@ Popular CV templates to check:
 
 ---
 
-*Forked for personal CV — original template author unknown.* — Documented July 2026
+*Forked for personal CV -- original template author unknown.* -- Documented July 2026
